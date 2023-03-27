@@ -5,7 +5,8 @@
 ?>
 <body>
     <?php
-        include("includes/whats.php");
+        include("includes/header.php");
+        include("includes/preloader.php");
         include("modules/index.php");
         include("includes/whats.php");
         include("includes/footer.php");
