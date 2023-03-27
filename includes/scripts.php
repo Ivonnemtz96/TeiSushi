@@ -16,4 +16,25 @@
 <script src="js/select2.js"></script>
 <script src="js/datepicker.js"></script>
 <script src="js/smooth-scroll.min.js"></script>
+<script src="js/vegas.slider.min.js"></script>
 <script src="js/custom.js"></script>
+<!-- Vegas Background Slideshow (vegas.slider kenburns) -->
+<script>
+$(document).ready(function() {
+    $('#kenburnsSliderContainer').vegas({
+        slides: [{
+            src: "img/slider/14.jpg"
+        }, {
+            src: "img/slider/15.jpg"
+        }, {
+            src: "img/slider/16.jpg"
+        }],
+        overlay: true,
+        transition: 'fade2',
+        animation: 'kenburnsUpRight',
+        transitionDuration: 1000,
+        delay: 10000,
+        animationDuration: 20000
+    });
+});
+</script>

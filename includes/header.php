@@ -23,9 +23,9 @@
                         data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Home <i
                             class="ti-angle-down"></i></a>
                     <ul class="dropdown-menu">
-                        <li><a href="index.html" class="dropdown-item active"><span>Home Layout 01</span></a></li>
+                        <li><a href="index.html" class="dropdown-item"><span>Home Layout 01</span></a></li>
                         <li><a href="index2.html" class="dropdown-item"><span>Home Layout 02</span></a></li>
-                        <li><a href="index3.html" class="dropdown-item"><span>Home Layout 03</span></a></li>
+                        <li><a href="index3.html" class="dropdown-item active"><span>Home Layout 03</span></a></li>
                         <li><a href="index4.html" class="dropdown-item"><span>Home Layout 04</span></a></li>
                         <li><a href="index5.html" class="dropdown-item"><span>Home Layout 05</span></a></li>
                         <li><a href="index6.html" class="dropdown-item"><span>Home Layout 06</span></a></li>
@@ -135,4 +135,4 @@
             </div>
         </div>
     </div>
-</nav>º
+</nav>
