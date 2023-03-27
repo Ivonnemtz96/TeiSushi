@@ -9,7 +9,7 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo-wrapper">
-            <a class="logo" href="index.html"> <img src="img/logo.png" class="logo-img" alt=""> </a>
+            <a class="logo" href="/"> <img src="/img/logo.png" class="logo-img" alt=""> </a>
             <!--  <a class="logo" href="index.html"> <h2>Candóre <span>Restaurant</span></h2> </a> -->
         </div>
         <!-- Button -->
@@ -103,7 +103,7 @@
                     <div class="prods">
                         <div class="item">
                             <div class="img">
-                                <img src="img/shop/1.jpg" alt="">
+                                <img src="/img/shop/1.jpg" alt="">
                             </div>
                             <div class="cont">
                                 <h6>Mozzarella Dippers</h6>
@@ -115,7 +115,7 @@
                         </div>
                         <div class="item">
                             <div class="img">
-                                <img src="img/shop/2.jpg" alt="">
+                                <img src="/img/shop/2.jpg" alt="">
                             </div>
                             <div class="cont">
                                 <h6>Southern Chicken</h6>
