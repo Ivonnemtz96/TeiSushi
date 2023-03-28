@@ -22,16 +22,14 @@
 <script>
 $(document).ready(function() {
     $('#kenburnsSliderContainer').vegas({
-        slides: [{
-            src: "img/slider/14.jpg"
-        }, {
-            src: "img/slider/15.jpg"
-        }, {
-            src: "img/slider/16.jpg"
-        }],
+        slides: [
+            {src: "img/slider/14.jpg?=1"},
+            {src: "img/slider/15.jpg"}, 
+            {src: "img/slider/16.jpg"}
+        ],
         overlay: true,
         transition: 'fade2',
-        animation: 'kenburnsUpRight',
+        animation: 'kenburns',
         transitionDuration: 1000,
         delay: 10000,
         animationDuration: 20000
