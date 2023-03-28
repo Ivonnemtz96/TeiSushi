@@ -9,7 +9,7 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo-wrapper">
-            <a class="logo" href="/"> <img src="/img/logo.png" class="logo-img" alt=""> </a>
+            <a class="logo" href="/"> <img style="width: 6rem;" src="/img/logo2.png?=1" class="logo-img" alt=""> </a>
             <!--  <a class="logo" href="index.html"> <h2>Candóre <span>Restaurant</span></h2> </a> -->
         </div>
         <!-- Button -->

@@ -51,8 +51,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col col-md-3"> <img src="img/about2.jpg" alt="" class="mt-90 mb-30"> </div>
-            <div class="col col-md-3"> <img src="img/about.jpg" alt=""> </div>
+            <div class="col col-md-3"> <img src="img/about2.jpg?=1" alt="" class="mt-90 mb-30"> </div>
+            <div class="col col-md-3"> <img src="img/about.jpg?=1" alt=""> </div>
         </div>
     </div>
 </section>
@@ -61,7 +61,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5 offset-md-1 mb-30">
-                <img src="img/chef/chef.jpg" alt="">
+                <img src="img/chef/chef.jpg?=1" alt="">
             </div>
             <div class="col-md-5 valign mb-30">
                 <div class="row">
@@ -77,7 +77,8 @@
                             Asia en Tei Sushi, donde la pasión y la creatividad culinaria se combinan para ofrecerte una
                             experiencia gastronómica única e inolvidable.
                         </p>
-                        <div class="about-bottom"> <img src="img/signature.svg" alt="" class="image about-signature">
+                        <div hidden class="about-bottom"> 
+                            <img src="img/signature.svg" alt="" class="image about-signature">
                             <div class="about-name-wrapper">
                                 <div class="about-name">Harold Brown</div>
                                 <div class="about-rol">Master Chef</div>
