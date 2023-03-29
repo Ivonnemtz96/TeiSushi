@@ -8,7 +8,9 @@
                         <h6>Una experiencia culinaria excepcional</h6>
                         <h1>Tei Sushi</span></h1>
                         <!-- <p>1616 Broadway NY, New York</p> -->
-                        <a href="#" class="button-1 mt-15">Ver menú<span></span></a>
+                        <a target="_blank"
+                            href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00"
+                            class="button-1 mt-15">Reserva en línea<span></span></a>
                     </div>
                 </div>
             </div>
@@ -51,8 +53,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col col-md-3"> <img src="img/about2.jpg?=1" alt="" class="mt-90 mb-30"> </div>
-            <div class="col col-md-3"> <img src="img/about.jpg?=1" alt=""> </div>
+            <div class="col col-md-3"> <img src="/img/about2.jpg?=1" alt="" class="mt-90 mb-30"> </div>
+            <div class="col col-md-3"> <img src="/img/about.jpg?=1" alt=""> </div>
         </div>
     </div>
 </section>
@@ -61,13 +63,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5 offset-md-1 mb-30">
-                <img src="img/chef/chef.jpg?=1" alt="">
+                <img src="/img/chef/chef.jpg?=1" alt="">
             </div>
             <div class="col-md-5 valign mb-30">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-head mb-20">
-                            <div  style="color: #fff;" class="section-subtitle">Experiencia culinaria en un solo bocado</div>
+                            <div style="color: #fff;" class="section-subtitle">Experiencia culinaria en un solo bocado
+                            </div>
                             <div class="section-title white">Prueba nuevas experiencias culinarias</div>
                         </div>
                         <p>
@@ -77,8 +80,13 @@
                             Asia en Tei Sushi, donde la pasión y la creatividad culinaria se combinan para ofrecerte una
                             experiencia gastronómica única e inolvidable.
                         </p>
-                        <div hidden class="about-bottom"> 
-                            <img src="img/signature.svg" alt="" class="image about-signature">
+                        <div class="container text-container">
+                            <a target="_blank"
+                                href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00"
+                                class="button-1 mt-15">Reservar</a>
+                        </div>
+                        <div hidden class="about-bottom">
+                            <img src="/img/signature.svg" alt="" class="image about-signature">
                             <div class="about-name-wrapper">
                                 <div class="about-name">Harold Brown</div>
                                 <div class="about-rol">Master Chef</div>
@@ -107,7 +115,7 @@
         <div class="row">
             <div class="col-md-4">
                 <div class="item">
-                    <div class="position-re o-hidden"> <img src="img/chef/hamburger.jpg?=1" alt=""> </div>
+                    <div class="position-re o-hidden"> <img src="/img/chef/hamburger.jpg?=1" alt=""> </div>
                     <div class="con">
                         <img src="/img/jazmin.png?=1" style="width: 130px;" alt="">
                         <!-- <div class="icon flaticon-hamburger-1"></div> -->
@@ -125,7 +133,7 @@
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <div class="position-re o-hidden"> <img src="img/chef/salad.jpg?=1" alt=""> </div>
+                    <div class="position-re o-hidden"> <img src="/img/chef/salad.jpg?=1" alt=""> </div>
                     <!-- <span class="category"><a href="#0">$12.00</a></span> -->
                     <div class="con">
                         <img src="/img/alcari.png?=1" style="width: 100px; margin-bottom: 1rem;" alt="">
@@ -143,7 +151,7 @@
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <div class="position-re o-hidden"> <img src="img/chef/wine.jpg?=1" alt=""> </div>
+                    <div class="position-re o-hidden"> <img src="/img/chef/wine.jpg?=1" alt=""> </div>
                     <div class="con">
                         <img src="/img/fiorenza.png?=1" style="width: 70px; margin-bottom: 1rem;" alt="">
                         <!-- <div class="icon flaticon-whisky"></div> -->
@@ -162,7 +170,7 @@
     </div>
 </section>
 <!-- Testimonials - Opening hours -->
-<section class="background bg-img bg-fixed section-padding pb-0" data-background="img/banner5.jpg"
+<section class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner5.jpg"
     data-overlay-dark="6">
     <div class="container">
         <div class="row">
@@ -178,13 +186,18 @@
                                     <i class="star-rating"></i>
                                     <i class="star-rating"></i>
                                 </span>
-                                <p>Restaurant dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the
-                                    lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at
-                                    finibus viverra neca the sene on satien.</p>
+                                <p>
+                                    ¡Un lugar muy agradable y muy rico todo!
+                                    Los platillos están muy bien preparados, hay rollos, ramen, platillos calientes y
+                                    varias entradas, el marisco es fresco.
+                                    Pedí si me podrían preparar un rollo de manera diferente y lo hicieron, muy
+                                    accesibles.
+                                    El lugar es bonito, tiene aire acondicionado, sillas cómodas. Buena atención.
+                                </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/4.jpg" alt=""> </div>
+                                    <!-- <div class="author-img"> <img src="/img/team/4.jpg" alt=""> </div> -->
                                     <div class="cont">
-                                        <h6 style="color: #fff;">Emily Brown</h6>
+                                        <h6 style="color: #fff;">Octava</h6>
                                     </div>
                                 </div>
                             </div>
@@ -195,13 +208,14 @@
                                     <i class="star-rating"></i>
                                     <i class="star-rating"></i>
                                 </span>
-                                <p>Restaurant dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the
-                                    lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at
-                                    finibus viverra neca the sene on satien.</p>
+                                <p>
+                                    Gran experiencia culinaria, buenas bebidas, buena ambientacion y decoracion. Un
+                                    lugar completo para asistir con pareja o en familia.
+                                </p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/1.jpg" alt=""> </div>
+                                    <!-- <div class="author-img"> <img src="/img/team/1.jpg" alt=""> </div> -->
                                     <div class="cont">
-                                        <h6 style="color: #fff;">Nolan White</h6>
+                                        <h6 style="color: #fff;">Oscar Rodriguez Alvarez</h6>
                                     </div>
                                 </div>
                             </div>
@@ -212,13 +226,12 @@
                                     <i class="star-rating"></i>
                                     <i class="star-rating"></i>
                                 </span>
-                                <p>Restaurant dapibus asue metus the nec feusiate eraten miss hendreri net ve ante the
-                                    lemon sanleo nectan feugiat erat hendrerit necuis ve ante otel inilla duiman at
-                                    finibus viverra neca the sene on satien.</p>
+                                <p>Buen lugar para locales, precios accesibles y comida muy rica. El ambiente muy bueno,
+                                    agradable</p>
                                 <div class="info">
-                                    <div class="author-img"> <img src="img/team/5.jpg" alt=""> </div>
+                                    <!-- <div class="author-img"> <img src="/img/team/5.jpg" alt=""> </div> -->
                                     <div class="cont">
-                                        <h6 style="color: #fff;">Olivia Martin</h6>
+                                        <h6 style="color: #fff;">Abraham Romero</h6>
                                     </div>
                                 </div>
                             </div>
@@ -255,11 +268,16 @@
                                 </div>
                             </div>
                         </div>
-                    </div> <a href="index.html" class="button-1 mt-15">Reservar</a>
-                    <p><small>También puedes llamar: <a target="_blank" style="color: #fff !important;" href="tel:+526241237003">+52 (624) 123 7003</a> para
+                    </div>
+                    <a target="_blank"
+                        href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00"
+                        class="button-1 mt-15">Reservar</a>
+                    <p><small>También puedes llamar: <a target="_blank" style="color: #fff !important;"
+                                href="tel:+526241237003">+52 (624) 123 7003</a> para
                             reservar.</small></p>
                     <p class="mt-0">
-                        <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank" style="text-decoration: underline;">
+                        <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank"
+                            style="text-decoration: underline;">
                             <i style="color: #fff !important;" class="ti-location-pin"></i>
                             <small>Blvrd Antonio Mijares, No. 10, Col. Centro.</small>
                         </a>
@@ -307,107 +325,27 @@
     </div>
 </section>
 
-<div hidden class="first-class-services section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-head text-center">
-                    <div class="section-subtitle">Firs-Class</div>
-                    <div class="section-title white">Our Features</div>
-                    <div class="section-backtitle">Services</div> <span class="icon white">
-                        <i class="flaticon-tray-2"></i>
-                    </span>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="square-flip">
-                    <div class="square bg-img" data-background="img/services/1.jpg"> <span class="sale">NEW</span>
-                        <div class="square-container d-flex align-items-end justify-content-end">
-                            <div class="box-title">
-                                <div class="icon flaticon-menu"></div>
-                                <h6>Current Menu</h6>
-                                <h4>Daily New Fresh Menus</h4>
-                            </div>
-                        </div>
-                        <div class="flip-overlay"></div>
-                    </div>
-                    <div class="square2">
-                        <div class="square-container2">
-                            <h6>Current Menu</h6>
-                            <h4>Daily New Fresh Menus</h4>
-                            <p><i>Lorem nisl miss nestibulum nec odio duru the aucan ula orci varius natoque enatau
-                                    manis dis arturient monte miss morbine.</i></p>
-                            <a href="#0" class="button-4 mt-15">View Menu<span></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="square-flip">
-                    <div class="square bg-img" data-background="img/services/2.jpg">
-                        <div class="square-container d-flex align-items-end justify-content-end">
-                            <div class="box-title">
-                                <div class="icon flaticon-food-serving"></div>
-                                <h6>Address of Taste</h6>
-                                <h4>Fresh Ingredient Meals</h4>
-                            </div>
-                        </div>
-                        <div class="flip-overlay"></div>
-                    </div>
-                    <div class="square2">
-                        <div class="square-container2">
-                            <h6>Address of Taste</h6>
-                            <h4>Fresh Ingredient Meals</h4>
-                            <p><i>Lorem nisl miss nestibulum nec odio duru the aucan ula orci varius natoque enatau
-                                    manis dis arturient monte miss morbine.</i></p>
-                            <a href="#0" class="button-4 mt-15">View Menu<span></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="square-flip">
-                    <div class="square bg-img" data-background="img/services/3.jpg">
-                        <div class="square-container d-flex align-items-end justify-content-end">
-                            <div class="box-title">
-                                <div class="icon flaticon-chef"></div>
-                                <h6>Executive Chefs</h6>
-                                <h4>Senior & Talented Chefs</h4>
-                            </div>
-                        </div>
-                        <div class="flip-overlay"></div>
-                    </div>
-                    <div class="square2">
-                        <div class="square-container2">
-                            <h6>Executive Chefs</h6>
-                            <h4>Senior & Talented Chefs</h4>
-                            <p><i>Lorem nisl miss nestibulum nec odio duru the aucan ula orci varius natoque enatau
-                                    manis dis arturient monte miss morbine.</i></p>
-                            <a href="#0" class="button-4 mt-15">Our Chefs<span></span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
 
 <!-- Restaurant Video -->
 <section class="section-padding video-wrapper video bg-img bg-fixed" data-overlay-dark="4"
-    data-background="img/banner2.jpg">
+    data-background="/img/banner2.jpg">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div style="color: #fff;" class="section-subtitle">Una experiencia inolvidable</div>
-                    <div class="section-title white">Ver video</div>
+                    <h2 style="color: #fff;" >Una experiencia inolvidable</h2>
+
+
+                    <script type='text/javascript'
+                        src='//www.opentable.com/widget/reservation/loader?rid=1232614&type=multi&theme=wide&color=1&dark=true&iframe=true&domain=com&lang=es-MX&newtab=false&ot_source=Restaurant%20website'>
+                    </script>
+
+
+                    <!-- <div class="section-title white">Ver video</div> -->
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div hidden class="row">
             <div class="col-md-12 text-center">
                 <a class="vid" href="https://vimeo.com/762423057">
                     <div class="vid-butn"> <span class="icon">
@@ -421,7 +359,7 @@
 
 <!-- Daily Menu - Parallax Section -->
 
-<section class="parallax-header parallax-slider-fade" style="margin-top: 7rem;">
+<section class="parallax-header parallax-slider-fade" style="margin-top: 7rem;" id="galeria">
     <div class="row">
         <div class="col-md-12">
             <div class="section-head text-center">
@@ -466,25 +404,28 @@
                         <div class="con"> <span class="category">
                                 <a href="news.html">Cumpleaños</a>
                             </span>
-                            <h5><a href="post.html">Festeja a lo grande con nuestros deliciosos platillos con la compañía de tus seres queridos.</a></h5>
+                            <h5><a href="post.html">Festeja a lo grande con nuestros deliciosos platillos con la
+                                    compañía de tus seres queridos.</a></h5>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/2.jpg?=1" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/2.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="news.html">Aniversarios</a>
                             </span>
-                            <h5><a href="post.html">Prepara esa fecha especial con tus seres queridos acompañada de una exquisita cena.</a></h5>
+                            <h5><a href="post.html">Prepara esa fecha especial con tus seres queridos acompañada de una
+                                    exquisita cena.</a></h5>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/3.jpg?=1" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/3.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="news.html">Eventos privados</a>
                             </span>
-                            <h5><a href="post.html">Lo mejor de la comida Asiática dejará a todos sorpendidos, disfruta de los ingredientes más frescos.</a></h5>
+                            <h5><a href="post.html">Lo mejor de la comida Asiática dejará a todos sorpendidos, disfruta
+                                    de los ingredientes más frescos.</a></h5>
                         </div>
                     </div>
                 </div>
@@ -493,7 +434,7 @@
     </div>
 </section>
 <!-- Booking Form -->
-<section class="testimonials" style="margin-bottom: 10rem;">
+<section class="testimonials" id="contacto">
     <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner2.jpg"
         data-overlay-dark="7">
         <div class="container">
@@ -506,7 +447,8 @@
                     <div class="reservations mb-10">
                         <div class="icon color-1"><span style="color: #fff;" class="flaticon-tray-1"></span></div>
                         <div class="text">
-                            <p style="color: #fff;" class="color-1">Reserva en línea</p> <a class=" color-1 button-1 mt-15" href="tel:855-100-4444">Open Table</a>
+                            <p style="color: #fff;" class="color-1">Reserva en línea</p> <a
+                                class=" color-1 button-1 mt-15" href="tel:855-100-4444">Open Table</a>
                         </div>
                     </div>
                 </div>
@@ -541,8 +483,8 @@
                                         <div class="input1_wrapper">
                                             <label>Correo</label>
                                             <div class="input2_inner">
-                                                <input type="email" class="form-control input"
-                                                    placeholder="correo" required>
+                                                <input type="email" class="form-control input" placeholder="correo"
+                                                    required>
                                             </div>
                                         </div>
                                     </div>
@@ -551,7 +493,7 @@
                                             <label>Fecha</label>
                                             <div class="input1_inner">
                                                 <input type="text" class="form-control input datepicker"
-                                                    placeholder="Date" required>
+                                                    placeholder="Fecha" required>
                                             </div>
                                         </div>
                                     </div>
@@ -578,13 +520,13 @@
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
                                                     <option value="0">Hora</option>
-                                                    <option value="1">10:00 am</option>
-                                                    <option value="2">11:00 am</option>
-                                                    <option value="3">12:00 pm</option>
-                                                    <option value="4">14:00 pm</option>
-                                                    <option value="5">16:00 pm</option>
-                                                    <option value="6">18:00 pm</option>
-                                                    <option value="7">20:00 pm</option>
+                                                    <option value="1:00pm">13:00 pm</option>
+                                                    <option value="2:00pm">14:00 pm</option>
+                                                    <option value="3:00pm">15:00 pm</option>
+                                                    <option value="4:00pm">16:00 pm</option>
+                                                    <option value="5:00pm">17:00 pm</option>
+                                                    <option value="6:00pm">18:00 pm</option>
+                                                    <option value="7:00pm">19:00 pm</option>
                                                 </select>
                                             </div>
                                         </div>
@@ -599,6 +541,12 @@
                 </div>
             </div>
         </div>
+    </div>
+    <div class="mapa">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d692.5074395004276!2d-109.69469669876268!3d23.062474610654604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51ac12370483%3A0x3f45f519ada3f0bd!2sTei%20Sushi!5e0!3m2!1ses-419!2smx!4v1680128582329!5m2!1ses-419!2smx"
+            width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section>
 <!-- Clients -->

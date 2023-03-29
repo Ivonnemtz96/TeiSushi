@@ -21,8 +21,8 @@
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="/menu">Menú</a></li>
-                <li class="nav-item"><a class="nav-link" href="/galeria">Galería</a></li>
-                <li class="nav-item"><a class="nav-link" href="/contacto">Contact</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#galeria">Galería</a></li>
+                <li class="nav-item"><a class="nav-link" href="/#contacto">Contact</a></li>
             </ul>
         </div>
     </div>
