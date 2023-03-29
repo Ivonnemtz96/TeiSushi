@@ -18,7 +18,7 @@
     <div class="reservation">
         <a href="tel:+526241237003 ">
             <div class="icon d-flex justify-content-center align-items-center"> <i class="flaticon-tray-1"></i> </div>
-            <div class="call"><span>+52 (624) 123 7003 </span>
+            <div style="color: #fff;" class="call"><span>+52 (624) 123 7003 </span>
                 <br>Teléfono
             </div>
         </a>
@@ -67,7 +67,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-head mb-20">
-                            <div class="section-subtitle">Experiencia culinaria en un solo bocado</div>
+                            <div  style="color: #fff;" class="section-subtitle">Experiencia culinaria en un solo bocado</div>
                             <div class="section-title white">Prueba nuevas experiencias culinarias</div>
                         </div>
                         <p>
@@ -307,7 +307,7 @@
     </div>
 </section>
 
-<div class="first-class-services section-padding">
+<div hidden class="first-class-services section-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -402,7 +402,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div class="section-subtitle">Una experiencia inolvidable</div>
+                    <div style="color: #fff;" class="section-subtitle">Una experiencia inolvidable</div>
                     <div class="section-title white">Ver video</div>
                 </div>
             </div>
@@ -519,8 +519,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div class="section-subtitle">¿Tienes algún evento?</div>
-                    <div class="section-title white">Cada plato es una obra de arte.</div>
+                    <div style="color: #fff;" class="section-subtitle">¿Tienes algún evento?</div>
+                    <div style="color: #fff;" class="section-title white">Cada plato es una obra de arte.</div>
                     <!-- <div class="section-backtitle">Blog</div> <span class="icon white"> <i class="ti-star"></i></span> -->
                 </div>
             </div>
@@ -532,56 +532,27 @@
                         <div class="position-re o-hidden"> <img src="img/news/1.jpg" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="news.html">Mains</a>
+                                <a href="news.html">Cumpleaños</a>
                             </span>
-                            <h5><a href="post.html">New York Strip Steak with Garlic Butter</a></h5>
+                            <h5><a href="post.html">Festeja a lo grande con nuestros deliciosos platillos con la compañía de tus seres queridos.</a></h5>
                         </div>
                     </div>
                     <div class="item">
                         <div class="position-re o-hidden"> <img src="img/news/2.jpg" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="news.html">Salads</a>
+                                <a href="news.html">Aniversarios</a>
                             </span>
-                            <h5><a href="post.html">Grilled Salmon Salad With Lime and Herbs Recipe</a></h5>
+                            <h5><a href="post.html">Prepara esa fecha especial con tus seres queridos acompañada de una exquisita cena.</a></h5>
                         </div>
                     </div>
                     <div class="item">
                         <div class="position-re o-hidden"> <img src="img/news/3.jpg" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="news.html">Desserts</a>
+                                <a href="news.html">Eventos privados</a>
                             </span>
-                            <h5><a href="post.html">The Best Chocolate Cake of Your Life</a></h5>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/4.jpg" alt="">
-                            
-                        </div>
-                        <div class="con"> <span class="category">
-                                <a href="news.html">Drinks</a>
-                            </span>
-                            <h5><a href="post.html">The Best Champagne For All of Your Celebrations</a></h5>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/5.jpg" alt="">
-                           
-                        </div>
-                        <div class="con"> <span class="category">
-                                <a href="news.html">Breakfast</a>
-                            </span>
-                            <h5><a href="post.html">Pratic Toast Recipe That Will Brighten Your Morning</a></h5>
-                        </div>
-                    </div>
-                    <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/6.jpg" alt="">
-                        </div>
-                        <div class="con"> <span class="category">
-                                <a href="news.html">Desserts</a>
-                            </span>
-                            <h5><a href="post.html">Tall and Creamy New York Cheesecake Recipe</a></h5>
+                            <h5><a href="post.html">Lo mejor de la comida Asiática dejará a todos sorpendidos, disfruta de los ingredientes más frescos.</a></h5>
                         </div>
                     </div>
                 </div>
@@ -611,41 +582,41 @@
                 <div class="col-md-5 offset-md-2">
                     <div class="booking-box">
                         <div class="head-box text-center">
-                            <h4>Make A Reservation</h4>
+                            <h4>¡Haz tu reservación ahora!</h4>
                         </div>
                         <div class="booking-inner clearfix">
                             <form class="form1 clearfix">
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="input1_wrapper">
-                                            <label>Your Name</label>
+                                            <label>Nombre</label>
                                             <div class="input2_inner">
-                                                <input type="text" class="form-control input" placeholder="Your Name"
+                                                <input type="text" class="form-control input" placeholder="Nombre"
                                                     required>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="input1_wrapper">
-                                            <label>Phone</label>
+                                            <label>Teléfono</label>
                                             <div class="input2_inner">
-                                                <input type="text" class="form-control input" placeholder="Phone"
+                                                <input type="text" class="form-control input" placeholder="Teléfono"
                                                     required>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="input1_wrapper">
-                                            <label>Email Address</label>
+                                            <label>Correo</label>
                                             <div class="input2_inner">
                                                 <input type="email" class="form-control input"
-                                                    placeholder="Email Address" required>
+                                                    placeholder="correo" required>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="input1_wrapper">
-                                            <label>Date</label>
+                                            <label>Fecha</label>
                                             <div class="input1_inner">
                                                 <input type="text" class="form-control input datepicker"
                                                     placeholder="Date" required>
@@ -654,7 +625,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="select1_wrapper">
-                                            <label>Persons</label>
+                                            <label>Perosnas</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
                                                     <option value="0">Persons</option>
@@ -671,7 +642,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <div class="select1_wrapper">
-                                            <label>Time</label>
+                                            <label>Fecha</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
                                                     <option value="0">Time</option>
@@ -687,8 +658,7 @@
                                         </div>
                                     </div>
                                     <div class="col-md-12">
-                                        <button type="submit" class="btn-form1-submit mt-15">Check
-                                            Availability</button>
+                                        <button type="submit" class="btn-form1-submit mt-15">Reservar</button>
                                     </div>
                                 </div>
                             </form>
