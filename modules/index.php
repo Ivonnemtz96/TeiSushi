@@ -418,80 +418,10 @@
         </div>
     </div>
 </section>
-<!-- Team -->
-<section class="team section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-head text-center">
-                    <div class="section-subtitle">Our Experts</div>
-                    <div class="section-title white">Meet Our Chefs</div>
-                    <div class="section-backtitle">Chefs</div> <span class="icon white">
-                        <i class="flaticon-chef"></i>
-                    </span>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="owl-carousel owl-theme">
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="img/team/chef1.jpg" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Raphael Moss<span>Executive Head Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
-                                arcuman ontese auctor ac aleuam aretra.</p>
-                            <div class="social">
-                                <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i
-                                            class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a
-                                        href="#"><i class="ti-instagram"></i></a> </div>
-                            </div>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Raphael Moss<span>Executive Head Chef</span></h3>
-                        </div>
-                    </div>
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="img/team/chef2.jpg" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Martha Martin<span>Executive Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
-                                arcuman ontese auctor ac aleuam aretra.</p>
-                            <div class="social">
-                                <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i
-                                            class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a
-                                        href="#"><i class="ti-instagram"></i></a> </div>
-                            </div>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Martha Martin<span>Executive Chef</span></h3>
-                        </div>
-                    </div>
-                    <div class="team-card mb-30">
-                        <div class="team-img"><img src="img/team/chef3.jpg" alt="" class="w-100"></div>
-                        <div class="team-content">
-                            <h3 class="team-title">Robert Dan<span>Group Head Chef</span></h3>
-                            <p class="team-text">Nulla quis efficitur lacus sulvinar suere ausue in eduis euro vesatien
-                                arcuman ontese auctor ac aleuam aretra.</p>
-                            <div class="social">
-                                <div class="full-width"> <a href="#"><i class="ti-linkedin"></i></a> <a href="#"><i
-                                            class="ti-facebook"></i></a> <a href="#"><i class="ti-twitter"></i></a> <a
-                                        href="#"><i class="ti-instagram"></i></a> </div>
-                            </div>
-                        </div>
-                        <div class="title-box">
-                            <h3 class="mb-0">Robert Dan<span>Group Head Chef</span></h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 <!-- Daily Menu - Parallax Section -->
 
-<section class="parallax-header parallax-slider-fade">
+<section class="parallax-header parallax-slider-fade" style="margin-top: 7rem;">
     <div class="row">
         <div class="col-md-12">
             <div class="section-head text-center">
@@ -505,12 +435,14 @@
     </div>
     <div class="owl-carousel owl-theme">
         <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="img/daily/1.jpg">
-        </div>
-        <div class="text-left item bg-img" data-overlay-dark="4" data-background="img/daily/2.jpg">
-        </div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="img/daily/3.jpg">
-        </div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/1.jpg?=1"></div>
+        <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/daily/2.jpg?=1"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/3.jpg?=1"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/4.jpg"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/5.jpg"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/6.jpg"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/7.jpg"></div>
+
     </div>
 </section>
 <!-- News -->
@@ -529,7 +461,7 @@
             <div class="col-md-12">
                 <div class="owl-carousel owl-theme">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/1.jpg?=1" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/1.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="news.html">Cumpleaños</a>
@@ -561,8 +493,8 @@
     </div>
 </section>
 <!-- Booking Form -->
-<section class="testimonials">
-    <div class="background bg-img bg-fixed section-padding pb-0" data-background="img/banner12.jpg"
+<section class="testimonials" style="margin-bottom: 10rem;">
+    <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner2.jpg"
         data-overlay-dark="7">
         <div class="container">
             <div class="row">
@@ -628,24 +560,24 @@
                                             <label>Perosnas</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="0">Persons</option>
-                                                    <option value="1">1 Person</option>
-                                                    <option value="2">2 People</option>
-                                                    <option value="3">3 People</option>
-                                                    <option value="4">4 People</option>
-                                                    <option value="5">5 People</option>
-                                                    <option value="6">6 People</option>
-                                                    <option value="7">7 People</option>
+                                                    <option value="0">Personas</option>
+                                                    <option value="1">1 pax</option>
+                                                    <option value="2">2 pax</option>
+                                                    <option value="3">3 pax</option>
+                                                    <option value="4">4 pax</option>
+                                                    <option value="5">5 pax</option>
+                                                    <option value="6">6 pax</option>
+                                                    <option value="7">7 pax</option>
                                                 </select>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="select1_wrapper">
-                                            <label>Fecha</label>
+                                            <label>Hora</label>
                                             <div class="select1_inner">
                                                 <select class="select2 select" style="width: 100%">
-                                                    <option value="0">Time</option>
+                                                    <option value="0">Hora</option>
                                                     <option value="1">10:00 am</option>
                                                     <option value="2">11:00 am</option>
                                                     <option value="3">12:00 pm</option>
@@ -670,28 +602,3 @@
     </div>
 </section>
 <!-- Clients -->
-<section class="clients">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6">
-                <div class="owl-carousel owl-theme">
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/2.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/3.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/4.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/5.png" alt=""></a>
-                    </div>
-                    <div class="clients-logo">
-                        <a href="#0"><img src="img/clients/6.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>

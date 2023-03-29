@@ -1,6 +1,6 @@
  <!-- Footer -->
  <footer class="footer">
-     <div class="footer-top">
+     <div hidden class="footer-top">
          <div class="container">
              <div class="row">
                  <div class="col-md-4">
@@ -56,7 +56,7 @@
              <div class="row">
                  <div class="col-md-12">
                      <div class="footer-bottom-inner">
-                         <p class="footer-bottom-copy-right">© Copyright 2023 by <a href="#">DuruThemes.com</a></p>
+                         <p class="footer-bottom-copy-right">© Tei Sushi 2023. Diseñado por <a target="_blank" href="https://bananagroup.mx">Banana Group Marketing</a></p>
                      </div>
                  </div>
              </div>
