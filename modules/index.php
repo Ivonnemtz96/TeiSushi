@@ -456,12 +456,12 @@
                 <div class="col-md-5 offset-md-2">
                     <div class="booking-box">
                         <div class="head-box text-center">
-                            <h4>¡Haz tu reservación ahora!</h4>
+                            <h4>¡Contáctanos!</h4>
                         </div>
                         <div class="booking-inner clearfix">
                             <form class="form1 clearfix">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-12">
                                         <div class="input1_wrapper">
                                             <label>Nombre</label>
                                             <div class="input2_inner">
@@ -488,51 +488,16 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-12">
                                         <div class="input1_wrapper">
-                                            <label>Fecha</label>
-                                            <div class="input1_inner">
-                                                <input type="text" class="form-control input datepicker"
-                                                    placeholder="Fecha" required>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="select1_wrapper">
-                                            <label>Perosnas</label>
-                                            <div class="select1_inner">
-                                                <select class="select2 select" style="width: 100%">
-                                                    <option value="0">Personas</option>
-                                                    <option value="1">1 pax</option>
-                                                    <option value="2">2 pax</option>
-                                                    <option value="3">3 pax</option>
-                                                    <option value="4">4 pax</option>
-                                                    <option value="5">5 pax</option>
-                                                    <option value="6">6 pax</option>
-                                                    <option value="7">7 pax</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="select1_wrapper">
-                                            <label>Hora</label>
-                                            <div class="select1_inner">
-                                                <select class="select2 select" style="width: 100%">
-                                                    <option value="0">Hora</option>
-                                                    <option value="1:00pm">13:00 pm</option>
-                                                    <option value="2:00pm">14:00 pm</option>
-                                                    <option value="3:00pm">15:00 pm</option>
-                                                    <option value="4:00pm">16:00 pm</option>
-                                                    <option value="5:00pm">17:00 pm</option>
-                                                    <option value="6:00pm">18:00 pm</option>
-                                                    <option value="7:00pm">19:00 pm</option>
-                                                </select>
+                                            <label>Correo</label>
+                                            <div class="input2_inner">
+                                                <textarea name="mensaje" id="" cols="30" rows="5" placeholder="Mensaje"></textarea>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
-                                        <button type="submit" class="btn-form1-submit mt-15">Reservar</button>
+                                        <button type="submit" class="btn-form1-submit mt-15">Contactar</button>
                                     </div>
                                 </div>
                             </form>
