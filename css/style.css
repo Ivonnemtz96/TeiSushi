@@ -3800,6 +3800,7 @@ button.mfp-arrow {
 .tabs .tab-links .item-link.current {
   pointer-events: none;
   color: #5f1212;
+  text-shadow: white 1px 1px 5px;
 }
 .tabs .tab-content {
   display: none;
