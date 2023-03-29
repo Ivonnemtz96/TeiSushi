@@ -9,7 +9,7 @@
         include("includes/header.php");
         include("includes/preloader.php");
         include("modules/menu.php");
-        include("includes/whats.php");
+        include("includes/redes.php");
         include("includes/footer.php");
         include("includes/scripts.php");
     ?>

@@ -402,30 +402,30 @@
                         <div class="position-re o-hidden"> <img src="/img/news/1.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="news.html">Cumpleaños</a>
+                                <a href="#">Cumpleaños</a>
                             </span>
-                            <h5><a href="post.html">Festeja a lo grande con nuestros deliciosos platillos con la
-                                    compañía de tus seres queridos.</a></h5>
+                            <h5>Festeja a lo grande con nuestros deliciosos platillos con la
+                                    compañía de tus seres queridos.</h5>
                         </div>
                     </div>
                     <div class="item">
                         <div class="position-re o-hidden"> <img src="/img/news/2.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="news.html">Aniversarios</a>
+                                <a href="#">Aniversarios</a>
                             </span>
-                            <h5><a href="post.html">Prepara esa fecha especial con tus seres queridos acompañada de una
-                                    exquisita cena.</a></h5>
+                            <h5>Prepara esa fecha especial con tus seres queridos acompañada de una
+                                    exquisita cena.</h5>
                         </div>
                     </div>
                     <div class="item">
                         <div class="position-re o-hidden"> <img src="/img/news/3.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="news.html">Eventos privados</a>
+                                <a href="#">Eventos privados</a>
                             </span>
-                            <h5><a href="post.html">Lo mejor de la comida Asiática dejará a todos sorpendidos, disfruta
-                                    de los ingredientes más frescos.</a></h5>
+                            <h5>Lo mejor de la comida Asiática dejará a todos sorpendidos, disfruta
+                                    de los ingredientes más frescos.</h5>
                         </div>
                     </div>
                 </div>
