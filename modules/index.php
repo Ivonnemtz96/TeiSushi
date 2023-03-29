@@ -106,7 +106,7 @@
                 <div class="section-head text-center">
                     <div class="section-subtitle">Perteneciendo ahora al</div>
                     <div class="section-title">Grupo ALCARI</div>
-                    <div class="section-backtitle">ALCARI</div> <span class="icon">
+                    <!-- <div class="section-backtitle">ALCARI</div> <span class="icon"> -->
                         <i class="flaticon-chef"></i>
                     </span>
                 </div>
@@ -277,9 +277,9 @@
                             reservar.</small></p>
                     <p class="mt-0">
                         <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank"
-                            style="text-decoration: underline;">
+                            style="color:#fff">
                             <i style="color: #fff !important;" class="ti-location-pin"></i>
-                            <small>Blvrd Antonio Mijares, No. 10, Col. Centro.</small>
+                            <small style="color:#fff">Blvrd Antonio Mijares, No. 10, Col. Centro.</small>
                         </a>
                     </p>
                 </div>
@@ -448,7 +448,7 @@
                         <div class="icon color-1"><span style="color: #fff;" class="flaticon-tray-1"></span></div>
                         <div class="text">
                             <p style="color: #fff;" class="color-1">Reserva en línea</p> <a
-                                class=" color-1 button-1 mt-15" href="tel:855-100-4444">Open Table</a>
+                                class=" color-1 button-1 mt-15" target="_blank" href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00">Open Table</a>
                         </div>
                     </div>
                 </div>
