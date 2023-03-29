@@ -184,7 +184,7 @@
                                 <div class="info">
                                     <div class="author-img"> <img src="img/team/4.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h6>Emily Brown</h6> <span>Customer review</span>
+                                        <h6 style="color: #fff;">Emily Brown</h6>
                                     </div>
                                 </div>
                             </div>
@@ -201,7 +201,7 @@
                                 <div class="info">
                                     <div class="author-img"> <img src="img/team/1.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h6>Nolan White</h6> <span>Customer review</span>
+                                        <h6 style="color: #fff;">Nolan White</h6>
                                     </div>
                                 </div>
                             </div>
@@ -218,7 +218,7 @@
                                 <div class="info">
                                     <div class="author-img"> <img src="img/team/5.jpg" alt=""> </div>
                                     <div class="cont">
-                                        <h6>Olivia Martin</h6> <span>Customer review</span>
+                                        <h6 style="color: #fff;">Olivia Martin</h6>
                                     </div>
                                 </div>
                             </div>
@@ -256,11 +256,11 @@
                             </div>
                         </div>
                     </div> <a href="index.html" class="button-1 mt-15">Reservar</a>
-                    <p><small>Tambièn puedes llamar: <a href="tel:+526241237003">+52 (624) 123 7003</a> para
+                    <p><small>También puedes llamar: <a target="_blank" style="color: #fff !important;" href="tel:+526241237003">+52 (624) 123 7003</a> para
                             reservar.</small></p>
                     <p class="mt-0">
-                        <a href="#0">
-                            <i class="ti-location-pin"></i>
+                        <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank" style="text-decoration: underline;">
+                            <i style="color: #fff !important;" class="ti-location-pin"></i>
                             <small>Blvrd Antonio Mijares, No. 10, Col. Centro.</small>
                         </a>
                     </p>
@@ -529,7 +529,7 @@
             <div class="col-md-12">
                 <div class="owl-carousel owl-theme">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/1.jpg" alt="">
+                        <div class="position-re o-hidden"> <img src="img/news/1.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="news.html">Cumpleaños</a>
@@ -538,7 +538,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/2.jpg" alt="">
+                        <div class="position-re o-hidden"> <img src="img/news/2.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="news.html">Aniversarios</a>
@@ -547,7 +547,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="img/news/3.jpg" alt="">
+                        <div class="position-re o-hidden"> <img src="img/news/3.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="news.html">Eventos privados</a>
@@ -572,9 +572,9 @@
                             class="star-rating"></i><i class="star-rating"></i></p>
                     <h5>Un lugar donde la elegancia y la sofisticación se unen para ofrecer la mejor experiencia.</h5>
                     <div class="reservations mb-10">
-                        <div class="icon color-1"><span class="flaticon-tray-1"></span></div>
+                        <div class="icon color-1"><span style="color: #fff;" class="flaticon-tray-1"></span></div>
                         <div class="text">
-                            <p class="color-1">Reserva en línea</p> <a class=" color-1 button-1 mt-15" href="tel:855-100-4444">Open Table</a>
+                            <p style="color: #fff;" class="color-1">Reserva en línea</p> <a class=" color-1 button-1 mt-15" href="tel:855-100-4444">Open Table</a>
                         </div>
                     </div>
                 </div>

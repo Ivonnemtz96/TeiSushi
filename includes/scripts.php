@@ -23,9 +23,9 @@
 $(document).ready(function() {
     $('#kenburnsSliderContainer').vegas({
         slides: [
-            {src: "img/slider/14.jpg?=1"},
-            {src: "img/slider/15.jpg"}, 
-            {src: "img/slider/16.jpg"}
+            {src: "/img/slider/14.jpg?=1"},
+            {src: "/img/slider/13.jpg"}, 
+            {src: "/img/slider/17.jpg?=1"}
         ],
         overlay: true,
         transition: 'fade2',
