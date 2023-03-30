@@ -32,18 +32,17 @@
         <div class="row">
             <div class="col-md-6 mb-30">
                 <div class="section-head mb-20">
-                    <div class="section-subtitle">Una experiencia culinaria excepcional</div>
+                    <div class="section-subtitle">El sushi que tu paladar necesita.</div>
                     <div class="section-title">Tei Sushi</div>
                 </div>
                 <p>
-                    Somos un restaurante de comida asiática que te transportará a Japón a través de sus sabores
-                    únicos y auténticos. La experiencia culinaria en Tei Sushi es excepcional, gracias a la calidad y
-                    frescura de sus ingredientes.
+                    Somos un restaurante de comida asiática que te transportará a Japón a través de sus sabores únicos y
+                    auténticos. Ten por seguro que vivirás una experiencia exquisita gracias a la calidad y frescura de
+                    cada uno de nuestros ingredientes.
                 </p>
                 <p>
-                    la pasión por la comida asiática se combina con la creatividad e innovación para ofrecerte una
-                    experiencia gastronómica única e inolvidable. Ven a Tei Sushi y descubre por qué somos uno de los
-                    mejores restaurantes de comida asiática de San José del Cabo.
+                    Rodeados de una atmósfera singular, tendrás una aventura con todos tus sentidos gracias al espacio
+                    cuidadosamente decorado y por supuesto, deliciosos platillos de autor.
                 </p>
                 <!-- reservation -->
                 <div class="reservations">
@@ -63,22 +62,22 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5 offset-md-1 mb-30">
-                <img src="/img/chef/chef.jpg?=1" alt="">
+                <img src="/img/chef/chef.jpg?=2" alt="">
             </div>
             <div class="col-md-5 valign mb-30">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-head mb-20">
-                            <div style="color: #fff;" class="section-subtitle">Experiencia culinaria en un solo bocado
+                            <div style="color: #fff;" class="section-subtitle">¿Estás listo para probar algo nuevo y
+                                emocionante?
                             </div>
-                            <div class="section-title white">Prueba nuevas experiencias culinarias</div>
+                            <div class="section-title white">Prueba nuestras delicias de autor</div>
                         </div>
                         <p>
                             Si buscas un lugar para celebrar una ocasión especial o simplemente disfrutar de una comida
                             inolvidable con amigos, Tei Sushi es el lugar ideal. <br>
-                            Ven y descubre el verdadero sabor de
-                            Asia en Tei Sushi, donde la pasión y la creatividad culinaria se combinan para ofrecerte una
-                            experiencia gastronómica única e inolvidable.
+                            Ven y descubre el verdadero sabor de Asia, donde la pasión, la creatividad y el buen gusto
+                            por la calidad gastronómica se combinan perfectamente para ofrecer lo mejor en un platillo.
                         </p>
                         <div class="container text-container">
                             <a target="_blank"
@@ -107,7 +106,7 @@
                     <div class="section-subtitle">Perteneciendo ahora al</div>
                     <div class="section-title">Grupo ALCARI</div>
                     <!-- <div class="section-backtitle">ALCARI</div> <span class="icon"> -->
-                        <i class="flaticon-chef"></i>
+                    <i class="flaticon-chef"></i>
                     </span>
                 </div>
             </div>
@@ -276,8 +275,7 @@
                                 href="tel:+526241237003">+52 (624) 123 7003</a> para
                             reservar.</small></p>
                     <p class="mt-0">
-                        <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank"
-                            style="color:#fff">
+                        <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank" style="color:#fff">
                             <i style="color: #fff !important;" class="ti-location-pin"></i>
                             <small style="color:#fff">Blvrd Antonio Mijares, No. 10, Col. Centro.</small>
                         </a>
@@ -296,7 +294,8 @@
                     <div class="cont">
                         <h5>Expertos</h5>
                         <p>
-                            Habilidad de nuestros chefs para crear los mejores platillos.
+                            Con un servicio excepcional vivirás tu visita con un equipo que siempre estará listo para
+                            atenderte.
                         </p>
                     </div>
                 </div>
@@ -304,19 +303,20 @@
             <div class="col-md-4">
                 <div class="item"> <span class="icon flaticon-tray-2"></span>
                     <div class="cont">
-                        <h5>Ingredientes Frescos</h5>
+                        <h5>Platillos</h5>
                         <p>
-                            Descubre por qué somos uno de los mejores restaurantes en San José del Cabo.
+                            Nuestros chefs tienen la habilidad de siempre superar las expectativas.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="item"> <span class="icon flaticon-chef-1"></span>
+                <div class="item"> <img style="width: 3rem; height: 3rem;" src="/img/wine.png" alt="">
                     <div class="cont">
-                        <h5>Degustación Culinaria</h5>
+                        <h5>Bebidas </h5>
                         <p>
-                            Donde la calidad y la frescura de nuestros pñatillos son nuestra prioridad.
+                            Nuestra coctelería siempre te enamorará con cada sorbo lleno de sabor.
+
                         </p>
                     </div>
                 </div>
@@ -328,12 +328,12 @@
 
 <!-- Restaurant Video -->
 <section class="section-padding video-wrapper video bg-img bg-fixed" data-overlay-dark="4"
-    data-background="/img/banner2.jpg">
+    data-background="/img/banner2.jpg?=1">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <h2 style="color: #fff;" >Una experiencia inolvidable</h2>
+                    <h2 style="color: #fff;">Un lugar encantador</h2>
 
 
                     <script type='text/javascript'
@@ -389,8 +389,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-head text-center">
-                    <div style="color: #fff;" class="section-subtitle">¿Tienes algún evento?</div>
-                    <div style="color: #fff;" class="section-title white">Cada plato es una obra de arte.</div>
+                    <div style="color: #fff;" class="section-subtitle">¿Se acerca una fecha especial?</div>
+                    <div style="color: #fff;" class="section-title white">Da vida a tus momentos memorables.</div>
                     <!-- <div class="section-backtitle">Blog</div> <span class="icon white"> <i class="ti-star"></i></span> -->
                 </div>
             </div>
@@ -404,8 +404,9 @@
                         <div class="con"> <span class="category">
                                 <a href="#">Cumpleaños</a>
                             </span>
-                            <h5>Festeja a lo grande con nuestros deliciosos platillos con la
-                                    compañía de tus seres queridos.</h5>
+                            <h5>
+                            Si celebras tu cumpleaños con nosotros, disfruta tu postre completamente gratis.
+                            </h5>
                         </div>
                     </div>
                     <div class="item">
@@ -414,18 +415,20 @@
                         <div class="con"> <span class="category">
                                 <a href="#">Aniversarios</a>
                             </span>
-                            <h5>Prepara esa fecha especial con tus seres queridos acompañada de una
-                                    exquisita cena.</h5>
+                            <h5>
+                            En una atmósfera romántica vive sentimientos emocionantes y llenos de amor. ¡Seremos tus cómplices!
+                            </h5>
                         </div>
                     </div>
                     <div class="item">
                         <div class="position-re o-hidden"> <img src="/img/news/3.jpg?=1" alt="">
                         </div>
                         <div class="con"> <span class="category">
-                                <a href="#">Eventos privados</a>
+                                <a href="#">Días Especiales</a>
                             </span>
-                            <h5>Lo mejor de la comida Asiática dejará a todos sorpendidos, disfruta
-                                    de los ingredientes más frescos.</h5>
+                            <h5>
+                            ¿Graduaciones, San Valentín, Día de las Madres? Cual sea tu fecha importante, permítenos ser parte.
+                            </h5>
                         </div>
                     </div>
                 </div>
@@ -448,7 +451,8 @@
                         <div class="icon color-1"><span style="color: #fff;" class="flaticon-tray-1"></span></div>
                         <div class="text">
                             <p style="color: #fff;" class="color-1">Reserva en línea</p> <a
-                                class=" color-1 button-1 mt-15" target="_blank" href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00">Open Table</a>
+                                class=" color-1 button-1 mt-15" target="_blank"
+                                href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00">OpenTable</a>
                         </div>
                     </div>
                 </div>
@@ -492,7 +496,8 @@
                                         <div class="input1_wrapper">
                                             <label>Correo</label>
                                             <div class="input2_inner">
-                                                <textarea name="mensaje" id="" cols="30" rows="5" placeholder="Mensaje"></textarea>
+                                                <textarea name="mensaje" id="" cols="30" rows="5"
+                                                    placeholder="Mensaje"></textarea>
                                             </div>
                                         </div>
                                     </div>

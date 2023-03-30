@@ -193,6 +193,6 @@
 
 <div class="fb-float">
     <a href="https://www.facebook.com/TeiSushiCabo" target="_blank">
-        <i style="margin: 0px 4px;" class="fa-brands fa-facebook"></i><span>Facebook<br><small>Tei Sushi</small></span>
+        <i style="margin: 0px -2px;" class="fa-brands fa-facebook"></i><span>Facebook<br><small>Tei Sushi</small></span>
     </a>
 </div>
