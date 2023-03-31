@@ -19,7 +19,14 @@
         <div class="collapse navbar-collapse" id="navbar">
             <ul class="navbar-nav ms-auto">
                 <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="/menu">Menú</a></li>
+                <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button"
+                        data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false">Menú <i
+                            class="ti-angle-down"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/menu" class="dropdown-item"><span>Menu Español</span></a></li>
+                        <li><a href="/menuEng" class="dropdown-item"><span>Menu English</span></a></li>
+                    </ul>
+                </li>
                 <li class="nav-item"><a class="nav-link" href="/#galeria">Galería</a></li>
                 <li class="nav-item"><a class="nav-link" href="/#contacto">Contacto</a></li>
             </ul>
