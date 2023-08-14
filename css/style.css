@@ -6281,17 +6281,17 @@ select {
 [data-overlay-dark="4"]:before,
 [data-overlay-darkgray="4"]:before,
 [data-overlay-light="4"]:before {
-  opacity: 0.4;
+  opacity: 0.2;
 }
 [data-overlay-dark="5"]:before,
 [data-overlay-darkgray="5"]:before,
 [data-overlay-light="5"]:before {
-  opacity: 0.5;
+  opacity: 0.1;
 }
 [data-overlay-dark="6"]:before,
 [data-overlay-darkgray="6"]:before,
 [data-overlay-light="6"]:before {
-  opacity: 0.6;
+  opacity: 0.3;
 }
 [data-overlay-dark="7"]:before,
 [data-overlay-darkgray="7"]:before,

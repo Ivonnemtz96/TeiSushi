@@ -52,8 +52,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col col-md-3"> <img src="/img/about2.jpg?=1" alt="" class="mt-90 mb-30"> </div>
-            <div class="col col-md-3"> <img src="/img/about.jpg?=1" alt=""> </div>
+            <div class="col col-md-3"> <img src="/img/01.jpg?=1" alt="" class="mt-90 mb-30"> </div>
+            <div class="col col-md-3"> <img src="/img/02.jpg?=1" alt=""> </div>
         </div>
     </div>
 </section>
@@ -169,7 +169,7 @@
     </div>
 </section>
 <!-- Testimonials - Opening hours -->
-<section class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner5.jpg"
+<section class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner5.jpg?=1"
     data-overlay-dark="6">
     <div class="container">
         <div class="row">
@@ -328,7 +328,7 @@
 
 <!-- Restaurant Video -->
 <section class="section-padding video-wrapper video bg-img bg-fixed" data-overlay-dark="4"
-    data-background="/img/banner2.jpg?=1">
+    data-background="/img/banner14.jpg?=1">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -373,13 +373,13 @@
     </div>
     <div class="owl-carousel owl-theme">
         <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/1.jpg?=1"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/8.jpg?=1"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/10.jpg?=1"></div>
         <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/daily/2.jpg?=1"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/3.jpg?=1"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/4.jpg"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/11.jpg?=1"></div>
         <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/5.jpg"></div>
         <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/6.jpg"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/7.jpg"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/9.jpg"></div>
 
     </div>
 </section>
@@ -421,7 +421,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="/img/news/3.jpg?=1" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/7.jpg?=2" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="#">Días Especiales</a>
