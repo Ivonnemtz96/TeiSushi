@@ -52,8 +52,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col col-md-3"> <img src="/img/01.jpg?=1" alt="" class="mt-90 mb-30"> </div>
-            <div class="col col-md-3"> <img src="/img/02.jpg?=1" alt=""> </div>
+            <div class="col col-md-3"> <img src="/img/01.jpg?=2" alt="" class="mt-90 mb-30"> </div>
+            <div class="col col-md-3"> <img src="/img/02.jpg?=2" alt=""> </div>
         </div>
     </div>
 </section>
@@ -62,7 +62,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-5 offset-md-1 mb-30">
-                <img src="/img/chef/chef.jpg?=2" alt="">
+                <img src="/img/chef/chef.jpg?=3" alt="">
             </div>
             <div class="col-md-5 valign mb-30">
                 <div class="row">
