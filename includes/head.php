@@ -8,4 +8,6 @@
         href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&amp;family=Pinyon+Script&amp;display=swap">
     <link rel="stylesheet" href="/css/plugins.css" />
     <link rel="stylesheet" href="/css/style.css" />
+     <!-- captcha -->
+ <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>

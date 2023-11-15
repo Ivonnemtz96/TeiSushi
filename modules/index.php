@@ -8,9 +8,7 @@
                         <h6>Una experiencia culinaria excepcional</h6>
                         <h1>Tei Sushi</span></h1>
                         <!-- <p>1616 Broadway NY, New York</p> -->
-                        <a target="_blank"
-                            href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00"
-                            class="button-1 mt-15">Reserva en línea<span></span></a>
+                        <a target="_blank" href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00" class="button-1 mt-15">Reserva en línea<span></span></a>
                     </div>
                 </div>
             </div>
@@ -80,9 +78,7 @@
                             por la calidad gastronómica se combinan perfectamente para ofrecer lo mejor en un platillo.
                         </p>
                         <div class="container text-container">
-                            <a target="_blank"
-                                href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00"
-                                class="button-1 mt-15">Reservar</a>
+                            <a target="_blank" href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00" class="button-1 mt-15">Reservar</a>
                         </div>
                         <div hidden class="about-bottom">
                             <img src="/img/signature.svg" alt="" class="image about-signature">
@@ -132,13 +128,13 @@
             </div>
             <div class="col-md-4">
                 <div class="item">
-                    <div class="position-re o-hidden"> <img src="/img/chef/salad.jpg?=1" alt=""> </div>
+                    <div class="position-re o-hidden"> <img src="/img/chef/salad.jpg?=2" alt=""> </div>
                     <!-- <span class="category"><a href="#0">$12.00</a></span> -->
                     <div class="con">
                         <img src="/img/alcari.png?=1" style="width: 100px; margin-bottom: 1rem;" alt="">
                         <!-- <div class="icon flaticon-salad"></div> -->
                         <!-- <h6>Salad</h6> -->
-                        <h5>Tei Sushi by</h5>
+                        <h5>Tei Sushi</h5>
                         <div class="line"></div>
                         <div class="row">
                             <div class="col-md-12 text-center">
@@ -169,8 +165,7 @@
     </div>
 </section>
 <!-- Testimonials - Opening hours -->
-<section class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner5.jpg?=1"
-    data-overlay-dark="6">
+<section class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner6.jpg?=3" data-overlay-dark="6">
     <div class="container">
         <div class="row">
             <!-- Testimonials -->
@@ -268,11 +263,8 @@
                             </div>
                         </div>
                     </div>
-                    <a target="_blank"
-                        href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00"
-                        class="button-1 mt-15">Reservar</a>
-                    <p><small>También puedes llamar: <a target="_blank" style="color: #fff !important;"
-                                href="tel:+526241237003">+52 (624) 123 7003</a> para
+                    <a target="_blank" href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00" class="button-1 mt-15">Reservar</a>
+                    <p><small>También puedes llamar: <a target="_blank" style="color: #fff !important;" href="tel:+526241237003">+52 (624) 123 7003</a> para
                             reservar.</small></p>
                     <p class="mt-0">
                         <a href="https://goo.gl/maps/xE6f2qkdNU6APNtm9" target="_blank" style="color:#fff">
@@ -327,8 +319,7 @@
 
 
 <!-- Restaurant Video -->
-<section class="section-padding video-wrapper video bg-img bg-fixed" data-overlay-dark="4"
-    data-background="/img/banner14.jpg?=1">
+<section class="section-padding video-wrapper video bg-img bg-fixed" data-overlay-dark="4" data-background="/img/banner14.jpg?=2">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -336,8 +327,7 @@
                     <h2 style="color: #fff;">Un lugar encantador</h2>
 
 
-                    <script type='text/javascript'
-                        src='//www.opentable.com/widget/reservation/loader?rid=1232614&type=multi&theme=wide&color=1&dark=true&iframe=true&domain=com&lang=es-MX&newtab=false&ot_source=Restaurant%20website'>
+                    <script type='text/javascript' src='//www.opentable.com/widget/reservation/loader?rid=1232614&type=multi&theme=wide&color=1&dark=true&iframe=true&domain=com&lang=es-MX&newtab=false&ot_source=Restaurant%20website'>
                     </script>
 
 
@@ -373,13 +363,14 @@
     </div>
     <div class="owl-carousel owl-theme">
         <!-- The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. -->
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/8.jpg?=1"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/10.jpg?=1"></div>
-        <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/daily/2.jpg?=1"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/11.jpg?=1"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/5.jpg"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/6.jpg"></div>
-        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/9.jpg"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/1.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/2.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="4" data-background="/img/daily/3.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/4.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/5.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/6.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/7.jpg?=2"></div>
+        <div class="text-left item bg-img" data-overlay-dark="5" data-background="/img/daily/8.jpg?=3"></div>
 
     </div>
 </section>
@@ -399,35 +390,35 @@
             <div class="col-md-12">
                 <div class="owl-carousel owl-theme">
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="/img/news/1.jpg?=1" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/1.jpg?=2" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="#">Cumpleaños</a>
                             </span>
                             <h5>
-                            Si celebras tu cumpleaños con nosotros, disfruta tu postre completamente gratis.
+                                Si celebras tu cumpleaños con nosotros, disfruta tu postre completamente gratis.
                             </h5>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="/img/news/2.jpg?=1" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/2.jpg?=2" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="#">Aniversarios</a>
                             </span>
                             <h5>
-                            En una atmósfera romántica vive sentimientos emocionantes y llenos de amor. ¡Seremos tus cómplices!
+                                En una atmósfera romántica vive sentimientos emocionantes y llenos de amor. ¡Seremos tus cómplices!
                             </h5>
                         </div>
                     </div>
                     <div class="item">
-                        <div class="position-re o-hidden"> <img src="/img/news/7.jpg?=2" alt="">
+                        <div class="position-re o-hidden"> <img src="/img/news/7.jpg?=3" alt="">
                         </div>
                         <div class="con"> <span class="category">
                                 <a href="#">Días Especiales</a>
                             </span>
                             <h5>
-                            ¿Graduaciones, San Valentín, Día de las Madres? Cual sea tu fecha importante, permítenos ser parte.
+                                ¿Graduaciones, San Valentín, Día de las Madres? Cual sea tu fecha importante, permítenos ser parte.
                             </h5>
                         </div>
                     </div>
@@ -438,21 +429,17 @@
 </section>
 <!-- Booking Form -->
 <section class="testimonials" id="contacto">
-    <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner2.jpg"
-        data-overlay-dark="7">
+    <div class="background bg-img bg-fixed section-padding pb-0" data-background="/img/banner2.jpg" data-overlay-dark="7">
         <div class="container">
             <div class="row">
                 <!-- Reservation -->
                 <div class="col-md-5 mb-30 mt-60">
-                    <p class="mb-0"><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i
-                            class="star-rating"></i><i class="star-rating"></i></p>
+                    <p class="mb-0"><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i><i class="star-rating"></i></p>
                     <h5>Un lugar donde la elegancia y la sofisticación se unen para ofrecer la mejor experiencia.</h5>
                     <div class="reservations mb-10">
                         <div class="icon color-1"><span style="color: #fff;" class="flaticon-tray-1"></span></div>
                         <div class="text">
-                            <p style="color: #fff;" class="color-1">Reserva en línea</p> <a
-                                class=" color-1 button-1 mt-15" target="_blank"
-                                href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00">OpenTable</a>
+                            <p style="color: #fff;" class="color-1">Reserva en línea</p> <a class=" color-1 button-1 mt-15" target="_blank" href="https://www.opentable.com.mx/r/tei-sushi-san-jose-del-cabo?corrid=bf20a876-aa77-4635-a023-85f4c04ac5ae&avt=eyJ2IjoyLCJtIjowLCJwIjowLCJzIjowLCJuIjowfQ&p=2&sd=2023-03-29T19%3A00%3A00">OpenTable</a>
                         </div>
                     </div>
                 </div>
@@ -463,14 +450,13 @@
                             <h4>¡Contáctanos!</h4>
                         </div>
                         <div class="booking-inner clearfix">
-                            <form class="form1 clearfix">
+                            <form class="form1 clearfix" action="/php/contact.php" method="POST">
                                 <div class="row">
                                     <div class="col-md-12">
                                         <div class="input1_wrapper">
                                             <label>Nombre</label>
                                             <div class="input2_inner">
-                                                <input type="text" class="form-control input" placeholder="Nombre"
-                                                    required>
+                                                <input type="text" name="nombre" class="form-control input" placeholder="Nombre" required>
                                             </div>
                                         </div>
                                     </div>
@@ -478,8 +464,7 @@
                                         <div class="input1_wrapper">
                                             <label>Teléfono</label>
                                             <div class="input2_inner">
-                                                <input type="text" class="form-control input" placeholder="Teléfono"
-                                                    required>
+                                                <input type="text" name="tel" class="form-control input" placeholder="Teléfono" required>
                                             </div>
                                         </div>
                                     </div>
@@ -487,8 +472,7 @@
                                         <div class="input1_wrapper">
                                             <label>Correo</label>
                                             <div class="input2_inner">
-                                                <input type="email" class="form-control input" placeholder="correo"
-                                                    required>
+                                                <input type="email" name="mail" class="form-control input" placeholder="correo" required>
                                             </div>
                                         </div>
                                     </div>
@@ -496,9 +480,13 @@
                                         <div class="input1_wrapper">
                                             <label>Correo</label>
                                             <div class="input2_inner">
-                                                <textarea name="mensaje" id="" cols="30" rows="5"
-                                                    placeholder="Mensaje"></textarea>
+                                                <textarea name="msj" id="" cols="30" rows="5" placeholder="Mensaje"></textarea>
                                             </div>
+                                        </div>
+                                    </div>
+                                    <div class="row " style="margin-bottom: 3rem; margin-top:3rem;">
+                                        <div class="col-12 col-md-12">
+                                            <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
@@ -513,10 +501,7 @@
         </div>
     </div>
     <div class="mapa">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d692.5074395004276!2d-109.69469669876268!3d23.062474610654604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51ac12370483%3A0x3f45f519ada3f0bd!2sTei%20Sushi!5e0!3m2!1ses-419!2smx!4v1680128582329!5m2!1ses-419!2smx"
-            width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d692.5074395004276!2d-109.69469669876268!3d23.062474610654604!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51ac12370483%3A0x3f45f519ada3f0bd!2sTei%20Sushi!5e0!3m2!1ses-419!2smx!4v1680128582329!5m2!1ses-419!2smx" width="100%" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section>
 <!-- Clients -->

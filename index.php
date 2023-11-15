@@ -4,6 +4,11 @@
     $title = "Inicio";
     include("includes/head.php");
 ?>
+<?
+if (isset($_GET)) {
+  include_once("php/msg.php");
+}
+?>
 <body>
     <?php
         include("includes/header.php");
