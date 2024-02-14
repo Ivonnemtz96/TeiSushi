@@ -35,13 +35,21 @@
                         <img src="/img/menu/eng/02.jpg" style="width: 80%;" alt="">
                     </div>
                     <div class="tab-content text-center" id="tab-3">
-                        <img src="/img/menu/eng/03.jpg" style="width: 80%;" alt="">
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="/img/menu/eng/03.jpg?=1" style="width: 80%;" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <img src="/img/menu/ramen.jpg?=1" style="width: 80%;" alt="">
+                            </div>
+                        </div>
                     </div>
                     <div class="tab-content text-center" id="tab-4">
                         <img src="/img/menu/eng/04.jpg" style="width: 80%;" alt="">
                     </div>
                     <div class="tab-content text-center" id="tab-5">
-                        <img src="/img/menu/eng/05.jpg" style="width: 80%;" alt="">
+                        <img src="/img/menu/eng/06nuevo.jpg?=1" style="width: 80%;" alt="">
                     </div>
                 </div>
             </div>

@@ -1,0 +1,2 @@
+[03-Dec-2023 16:34:05 America/Boise] PHP Notice:  Undefined index: g-recaptcha-response in /home2/grupoar6/public_html/teisushi/php/contact.php on line 21
+[03-Dec-2023 16:34:05 America/Boise] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/grupoar6/public_html/teisushi/php/contact.php:21) in /home2/grupoar6/public_html/teisushi/php/contact.php on line 68
