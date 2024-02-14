@@ -38,7 +38,7 @@
 
                         <div class="row">
                             <div class="col-md-6">
-                                <img src="/img/menu/eng/03.jpg?=1" style="width: 80%;" alt="">
+                                <img src="/img/menu/eng/03.jpg?=2" style="width: 80%;" alt="">
                             </div>
                             <div class="col-md-6">
                                 <img src="/img/menu/ramen.jpg?=1" style="width: 80%;" alt="">
