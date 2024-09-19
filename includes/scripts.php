@@ -19,7 +19,8 @@
 <script src="/js/vegas.slider.min.js"></script>
 <script src="/js/custom.js"></script>
 <!-- icons de redes sociales -->
-<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/e631eca424.js" crossorigin="anonymous"></script>
+
 
 <!-- Vegas Background Slideshow (vegas.slider kenburns) -->
 <script>

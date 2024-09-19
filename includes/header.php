@@ -9,7 +9,7 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo-wrapper">
-            <a class="logo" href="/"> <img style="width: 6rem;" src="/img/logo2.png?=1" class="logo-img" alt=""> </a>
+            <a class="logo" href="/"> <img style="width: 6rem;" src="/img/logo2.png?=2" class="logo-img" alt=""> </a>
         </div>
         <!-- Button -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"

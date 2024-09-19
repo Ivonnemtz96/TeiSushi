@@ -29,26 +29,32 @@
             <div class="col-12">
                 <div class="position-re">
                     <div class="tab-content current text-center" id="tab-1">
-                        <img src="/img/menu/01.jpg" style="width: 80%;" alt="">
+                        <img src="/img/menu/01.jpg?=1" style="width: 80%;" alt="">
                     </div>
                     <div class="tab-content text-center" id="tab-2">
-                        <img src="/img/menu/02.jpg" style="width: 80%;" alt="">
+                        <img src="/img/menu/02.jpg?=1" style="width: 80%;" alt="">
                     </div>
                     <div class="tab-content text-center" id="tab-3">
                         <div class="row">
-                            <div class="col-md-6">
-                            <img src="/img/menu/03.jpg?=1" style="width: 80%;" alt="">
+                        <div class="col-md-6">
+                                <img src="/img/menu/03.jpg" style="width: 80%;" alt="">
                             </div>
                             <div class="col-md-6">
-                            <img src="/img/menu/ramen.jpg?=1" style="width: 80%;" alt="">
+                                <img src="/img/menu/05.jpg" style="width: 80%;" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <img src="/img/menu/06.jpg" style="width: 80%;" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <img src="/img/menu/07.jpg" style="width: 80%;" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="tab-content text-center" id="tab-4">
-                        <img src="/img/menu/04.jpg" style="width: 80%;" alt="">
+                        <img src="/img/menu/04.jpg?=1" style="width: 80%;" alt="">
                     </div>
                     <div class="tab-content text-center" id="tab-5">
-                        <img src="/img/menu/06nuevo.jpg?=1" style="width: 80%;" alt="">
+                        <img src="/img/menu/08.jpg" style="width: 80%;" alt="">
                     </div>
                 </div>
             </div>
