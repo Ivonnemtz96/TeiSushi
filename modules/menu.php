@@ -18,8 +18,8 @@
                     <ul class="text-center" style="background-color: #fff;padding: 5px; border-radius: 4px;">
                         <li style="color: #000;" class="item-link current" data-tab="tab-1"> Aperitivos </li>
                         <li style="color: #000;" class="item-link" data-tab="tab-2"> Sashimis </li>
-                        <li style="color: #000;" class="item-link" data-tab="tab-3"> Rollos y ramen </li>
-                        <li style="color: #000;" class="item-link" data-tab="tab-4"> Comida Caliente </li>
+                        <li style="color: #000;" class="item-link" data-tab="tab-3"> Ramen </li>
+                        <li style="color: #000;" class="item-link" data-tab="tab-4"> Rollos </li>
                         <li style="color: #000;" class="item-link" data-tab="tab-5"> Bebidas </li>
                     </ul>
                 </div>
@@ -36,9 +36,6 @@
                     </div>
                     <div class="tab-content text-center" id="tab-3">
                         <div class="row">
-                        <div class="col-md-6">
-                                <img src="/img/menu/03.jpg" style="width: 80%;" alt="">
-                            </div>
                             <div class="col-md-6">
                                 <img src="/img/menu/05.jpg" style="width: 80%;" alt="">
                             </div>
@@ -51,7 +48,14 @@
                         </div>
                     </div>
                     <div class="tab-content text-center" id="tab-4">
-                        <img src="/img/menu/04.jpg?=1" style="width: 80%;" alt="">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="/img/menu/03.jpg" style="width: 80%;" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <img src="/img/menu/04.jpg" style="width: 80%;" alt="">
+                            </div>
+                        </div>
                     </div>
                     <div class="tab-content text-center" id="tab-5">
                         <img src="/img/menu/08.jpg" style="width: 80%;" alt="">
